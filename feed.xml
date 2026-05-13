@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -9,12 +9,12 @@
     <atom:link href="https://daniel-rechtman.github.io/mi-mefached-mehakod-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <title>מי מפחד מהקוד</title>
     <link>https://www.youtube.com/channel/UC4BOK9GdTd6htZ89s9y6Pew</link>
-    <description><![CDATA[הפודקסט הוא - מי מפחד מהקוד. הפודקאסט שבו נארח בעלי עסקים שהטמיעו מערכות AI מבוססות AI, נשמע על ההצלחות הכישלונות, ומתי איש המקצוע הגיע.]]></description>
+    <description><![CDATA[הפודקאסט לבעלי עסקים שרוצים להבין AI בלי בולשיט. כל פרק נארח בעל עסק שניסה להטמיע בינה מלאכותית בעסק שלו. נשמע מה עבד, מה התפוצץ, ומתי הגיע הרגע שבו הוא הפסיק לנסות לבד וקרא למקצוען. אוטומציות, סוכני AI, מערכות CRM חכמות, צ'אטבוטים - הכל על השולחן. מגיש: דניאל רכטמן | יזם ומפתח מערכות AI לעסקים.]]></description>
     <language>he</language>
-    <copyright>© 2026 Daniel Rechtman</copyright>
-    <lastBuildDate>Wed, 13 May 2026 10:54:31 GMT</lastBuildDate>
-    <itunes:author>Daniel Rechtman</itunes:author>
-    <itunes:summary><![CDATA[הפודקסט הוא - מי מפחד מהקוד. הפודקאסט שבו נארח בעלי עסקים שהטמיעו מערכות AI מבוססות AI, נשמע על ההצלחות הכישלונות, ומתי איש המקצוע הגיע.]]></itunes:summary>
+    <copyright>© 2026 דניאל רכטמן</copyright>
+    <lastBuildDate>Wed, 13 May 2026 16:56:02 +0000</lastBuildDate>
+    <itunes:author>דניאל רכטמן</itunes:author>
+    <itunes:summary><![CDATA[הפודקאסט לבעלי עסקים שרוצים להבין AI בלי בולשיט. כל פרק נארח בעל עסק שניסה להטמיע בינה מלאכותית בעסק שלו. נשמע מה עבד, מה התפוצץ, ומתי הגיע הרגע שבו הוא הפסיק לנסות לבד וקרא למקצוען. אוטומציות, סוכני AI, מערכות CRM חכמות, צ'אטבוטים - הכל על השולחן. מגיש: דניאל רכטמן | יזם ומפתח מערכות AI לעסקים.]]></itunes:summary>
     <itunes:owner>
       <itunes:name>Daniel Rechtman</itunes:name>
       <itunes:email>daniel763@gmail.com</itunes:email>
@@ -34,6 +34,20 @@
     <googleplay:category text="Technology"/>
     <googleplay:explicit>no</googleplay:explicit>
     <!-- EPISODES_INSERT_HERE -->
+    <item>
+      <title><![CDATA[מי מפחד מהקוד — פרק 1]]></title>
+      <description><![CDATA[הפודקאסט לבעלי עסקים שרוצים להבין AI בלי בולשיט. כל פרק נארח בעל עסק שניסה להטמיע בינה מלאכותית בעסק שלו. נשמע מה עבד, מה התפוצץ, ומתי הגיע הרגע שבו הוא הפסיק לנסות לבד וקרא למקצוען. אוטומציות, סוכני AI, מערכות CRM חכמות, צ'אטבוטים - הכל על השולחן. מגיש: דניאל רכטמן | יזם ומפתח מערכות AI לעסקים.]]></description>
+      <itunes:summary><![CDATA[הפודקאסט לבעלי עסקים שרוצים להבין AI בלי בולשיט. כל פרק נארח בעל עסק שניסה להטמיע בינה מלאכותית בעסק שלו. נשמע מה עבד, מה התפוצץ, ומתי הגיע הרגע שבו הוא הפסיק לנסות לבד וקרא למקצוען. אוטומציות, סוכני AI, מערכות CRM חכמות, צ'אטבוטים - הכל על השולחן. מגיש: דניאל רכטמן | יזם ומפתח מערכות AI לעסקים.]]></itunes:summary>
+      <itunes:author>דניאל רכטמן</itunes:author>
+      <enclosure url="https://pub-5dd16e3eb0704b99bc1fe4ce304e9555.r2.dev/episode-001.mp4" length="21595934947" type="video/mp4"/>
+      <guid isPermaLink="false">episode-001-1778691362</guid>
+      <pubDate>Wed, 13 May 2026 16:56:02 +0000</pubDate>
+      <itunes:duration>00:57:15</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pub-5dd16e3eb0704b99bc1fe4ce304e9555.r2.dev/cover-art.jpg"/>
+    </item>
   </channel>
 </rss>
 
