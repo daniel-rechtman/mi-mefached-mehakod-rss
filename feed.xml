@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link href="https://daniel-rechtman.github.io/mi-mefached-mehakod-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <title>מי מפחד מהקוד</title>
+    <link>https://www.youtube.com/channel/UC4BOK9GdTd6htZ89s9y6Pew</link>
+    <description><![CDATA[הפודקסט הוא - מי מפחד מהקוד. הפודקאסט שבו נארח בעלי עסקים שהטמיעו מערכות AI מבוססות AI, נשמע על ההצלחות הכישלונות, ומתי איש המקצוע הגיע.]]></description>
+    <language>he</language>
+    <copyright>© 2026 Daniel Rechtman</copyright>
+    <lastBuildDate>Wed, 13 May 2026 10:54:31 GMT</lastBuildDate>
+    <itunes:author>Daniel Rechtman</itunes:author>
+    <itunes:summary><![CDATA[הפודקסט הוא - מי מפחד מהקוד. הפודקאסט שבו נארח בעלי עסקים שהטמיעו מערכות AI מבוססות AI, נשמע על ההצלחות הכישלונות, ומתי איש המקצוע הגיע.]]></itunes:summary>
+    <itunes:owner>
+      <itunes:name>Daniel Rechtman</itunes:name>
+      <itunes:email>daniel763@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://pub-5dd16e3eb0704b99bc1fe4ce304e9555.r2.dev/cover-art.jpg"/>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <googleplay:author>Daniel Rechtman</googleplay:author>
+    <googleplay:description><![CDATA[הפודקסט הוא - מי מפחד מהקוד. הפודקאסט שבו נארח בעלי עסקים שהטמיעו מערכות AI מבוססות AI, נשמע על ההצלחות הכישלונות, ומתי איש המקצוע הגיע.]]></googleplay:description>
+    <googleplay:image href="https://pub-5dd16e3eb0704b99bc1fe4ce304e9555.r2.dev/cover-art.jpg"/>
+    <googleplay:category text="Technology"/>
+    <googleplay:explicit>no</googleplay:explicit>
+    <!-- EPISODES_INSERT_HERE -->
+  </channel>
+</rss>
+
