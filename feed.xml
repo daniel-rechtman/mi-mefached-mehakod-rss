@@ -12,7 +12,7 @@
     <description><![CDATA[הפודקאסט לבעלי עסקים שרוצים להבין AI בלי בולשיט. כל פרק נארח בעל עסק שניסה להטמיע בינה מלאכותית בעסק שלו. נשמע מה עבד, מה התפוצץ, ומתי הגיע הרגע שבו הוא הפסיק לנסות לבד וקרא למקצוען. אוטומציות, סוכני AI, מערכות CRM חכמות, צ'אטבוטים - הכל על השולחן. מגיש: דניאל רכטמן | יזם ומפתח מערכות AI לעסקים.]]></description>
     <language>he</language>
     <copyright>© 2026 דניאל רכטמן</copyright>
-    <lastBuildDate>Wed, 13 May 2026 17:48:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 08:03:57 +0000</lastBuildDate>
     <itunes:author>דניאל רכטמן</itunes:author>
     <itunes:summary><![CDATA[הפודקאסט לבעלי עסקים שרוצים להבין AI בלי בולשיט. כל פרק נארח בעל עסק שניסה להטמיע בינה מלאכותית בעסק שלו. נשמע מה עבד, מה התפוצץ, ומתי הגיע הרגע שבו הוא הפסיק לנסות לבד וקרא למקצוען. אוטומציות, סוכני AI, מערכות CRM חכמות, צ'אטבוטים - הכל על השולחן. מגיש: דניאל רכטמן | יזם ומפתח מערכות AI לעסקים.]]></itunes:summary>
     <itunes:owner>
@@ -38,7 +38,7 @@
       <title><![CDATA[מי מפחד מהקוד — פרק 1]]></title>
       <description><![CDATA[הפודקאסט לבעלי עסקים שרוצים להבין AI בלי בולשיט. כל פרק נארח בעל עסק שניסה להטמיע בינה מלאכותית בעסק שלו. נשמע מה עבד, מה התפוצץ, ומתי הגיע הרגע שבו הוא הפסיק לנסות לבד וקרא למקצוען. אוטומציות, סוכני AI, מערכות CRM חכמות, צ'אטבוטים - הכל על השולחן. מגיש: דניאל רכטמן | יזם ומפתח מערכות AI לעסקים.
 
-צפו ביוטיוב: https://youtu.be/6rem-Ek4YtI]]></description>
+צפו ביוטיוב: https://youtu.be/qORZomhgSns]]></description>
       <itunes:summary><![CDATA[הפודקאסט לבעלי עסקים שרוצים להבין AI בלי בולשיט. כל פרק נארח בעל עסק שניסה להטמיע בינה מלאכותית בעסק שלו. נשמע מה עבד, מה התפוצץ, ומתי הגיע הרגע שבו הוא הפסיק לנסות לבד וקרא למקצוען. אוטומציות, סוכני AI, מערכות CRM חכמות, צ'אטבוטים - הכל על השולחן. מגיש: דניאל רכטמן | יזם ומפתח מערכות AI לעסקים.]]></itunes:summary>
       <itunes:author>דניאל רכטמן</itunes:author>
       <enclosure url="https://pub-5dd16e3eb0704b99bc1fe4ce304e9555.r2.dev/episode-001.mp4" length="21595934947" type="video/mp4"/>
@@ -49,7 +49,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://pub-5dd16e3eb0704b99bc1fe4ce304e9555.r2.dev/cover-art.jpg"/>
-      <link>https://youtu.be/6rem-Ek4YtI</link>
+      <link>https://youtu.be/qORZomhgSns</link>
     </item>
   </channel>
 </rss>
