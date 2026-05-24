@@ -12,7 +12,7 @@
     <description><![CDATA[הפודקאסט לבעלי עסקים שרוצים להבין AI בלי בולשיט. כל פרק נארח בעל עסק שניסה להטמיע בינה מלאכותית בעסק שלו. נשמע מה עבד, מה התפוצץ, ומתי הגיע הרגע שבו הוא הפסיק לנסות לבד וקרא למקצוען. אוטומציות, סוכני AI, מערכות CRM חכמות, צ'אטבוטים - הכל על השולחן. מגיש: דניאל רכטמן | יזם ומפתח מערכות AI לעסקים.]]></description>
     <language>he</language>
     <copyright>© 2026 דניאל רכטמן</copyright>
-    <lastBuildDate>Sun, 17 May 2026 08:03:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 14:20:48 +0000</lastBuildDate>
     <itunes:author>דניאל רכטמן</itunes:author>
     <itunes:summary><![CDATA[הפודקאסט לבעלי עסקים שרוצים להבין AI בלי בולשיט. כל פרק נארח בעל עסק שניסה להטמיע בינה מלאכותית בעסק שלו. נשמע מה עבד, מה התפוצץ, ומתי הגיע הרגע שבו הוא הפסיק לנסות לבד וקרא למקצוען. אוטומציות, סוכני AI, מערכות CRM חכמות, צ'אטבוטים - הכל על השולחן. מגיש: דניאל רכטמן | יזם ומפתח מערכות AI לעסקים.]]></itunes:summary>
     <itunes:owner>
@@ -34,6 +34,26 @@
     <googleplay:category text="Technology"/>
     <googleplay:explicit>no</googleplay:explicit>
     <!-- EPISODES_INSERT_HERE -->
+    <item>
+      <title><![CDATA[מי מפחד מהקוד — פרק 2]]></title>
+      <description><![CDATA[גל חזיזה — מנכ"ל BuyPost ובעל 11 שנות ניסיון בעולם ה-SEO והפרסום הדיגיטלי בישראל — מתארח לשיחה על המסע של בעל עסק שמתחיל לבנות בעצמו עם AI. עם גל בנינו 3 מיזמים: מערכת ה-AI של BuyPost (פרסום ספונסרי באתרים ישראליים מובילים), פלטפורמת אימות העסקים TrueScontrol, ובעיקר — איך זה לבנות CRM שלם לעסק שלך לבד. ויכוחים, טיפים אמיתיים, וטעויות שהיו שווה לעשות.
+
+צפו ביוטיוב: https://youtu.be/gqv149soDHg]]></description>
+      <itunes:summary><![CDATA[גל חזיזה — מנכ"ל BuyPost ובעל 11 שנות ניסיון בעולם ה-SEO והפרסום הדיגיטלי בישראל — מתארח לשיחה על המסע של בעל עסק שמתחיל לבנות בעצמו עם AI. עם גל בנינו 3 מיזמים: מערכת ה-AI של BuyPost (פרסום ספונסרי באתרים ישראליים מובילים), פלטפורמת אימות העסקים TrueScontrol, ובעיקר — איך זה לבנות CRM שלם לעסק שלך לבד. ויכוחים, טיפים אמיתיים, וטעויות שהיו שווה לעשות.
+
+צפו ביוטיוב: https://youtu.be/gqv149soDHg]]></itunes:summary>
+      <itunes:author>דניאל רכטמן</itunes:author>
+      <enclosure url="https://pub-5dd16e3eb0704b99bc1fe4ce304e9555.r2.dev/episode-002.mp4" length="19492959305" type="video/mp4"/>
+      <guid isPermaLink="false">episode-002-1779632448</guid>
+      <pubDate>Sun, 24 May 2026 14:20:48 +0000</pubDate>
+      <itunes:duration>00:51:40</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pub-5dd16e3eb0704b99bc1fe4ce304e9555.r2.dev/episode-002-cover.jpg"/>
+      <link>https://youtu.be/gqv149soDHg</link>
+    </item>
+
     <item>
       <title><![CDATA[מי מפחד מהקוד — פרק 1]]></title>
       <description><![CDATA[הפודקאסט לבעלי עסקים שרוצים להבין AI בלי בולשיט. כל פרק נארח בעל עסק שניסה להטמיע בינה מלאכותית בעסק שלו. נשמע מה עבד, מה התפוצץ, ומתי הגיע הרגע שבו הוא הפסיק לנסות לבד וקרא למקצוען. אוטומציות, סוכני AI, מערכות CRM חכמות, צ'אטבוטים - הכל על השולחן. מגיש: דניאל רכטמן | יזם ומפתח מערכות AI לעסקים.
