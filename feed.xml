@@ -12,7 +12,7 @@
     <description><![CDATA[הפודקאסט לבעלי עסקים שרוצים להבין AI בלי בולשיט. כל פרק נארח בעל עסק שניסה להטמיע בינה מלאכותית בעסק שלו. נשמע מה עבד, מה התפוצץ, ומתי הגיע הרגע שבו הוא הפסיק לנסות לבד וקרא למקצוען. אוטומציות, סוכני AI, מערכות CRM חכמות, צ'אטבוטים - הכל על השולחן. מגיש: דניאל רכטמן | יזם ומפתח מערכות AI לעסקים.]]></description>
     <language>he</language>
     <copyright>© 2026 דניאל רכטמן</copyright>
-    <lastBuildDate>Sun, 31 May 2026 12:55:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 20:09:14 +0000</lastBuildDate>
     <itunes:author>דניאל רכטמן</itunes:author>
     <itunes:summary><![CDATA[הפודקאסט לבעלי עסקים שרוצים להבין AI בלי בולשיט. כל פרק נארח בעל עסק שניסה להטמיע בינה מלאכותית בעסק שלו. נשמע מה עבד, מה התפוצץ, ומתי הגיע הרגע שבו הוא הפסיק לנסות לבד וקרא למקצוען. אוטומציות, סוכני AI, מערכות CRM חכמות, צ'אטבוטים - הכל על השולחן. מגיש: דניאל רכטמן | יזם ומפתח מערכות AI לעסקים.]]></itunes:summary>
     <itunes:owner>
@@ -47,7 +47,9 @@
 • המעבר של מוטי מ-100 עובדים במסעדנות, לסופרמרקט שנמכר לשופרסל, ועד נדל"ן עם AI
 • הטעויות הכי כואבות והשגיאות שלמדנו מהן
 
-על האורח: https://next-level.co.il]]></description>
+על האורח: https://next-level.co.il
+
+צפו ביוטיוב: https://youtu.be/b2G6O2pE4_c]]></description>
       <itunes:summary><![CDATA[מוטי כליפה — מייסד ומנכ"ל רשת Next Level לתיווך נדל"ן בישראל ומלווה משקיעים — מתארח לשיחה על מערכת ה-CRM המתוחכמת שבנינו לעולם הנדל"ן עם AI. אצלו צוות סוכנים, אלפי לידים בחודש, ודרישות שמיוחדות לעולם הזה.
 
 מה תקבלו בפרק:
@@ -59,7 +61,9 @@
 • המעבר של מוטי מ-100 עובדים במסעדנות, לסופרמרקט שנמכר לשופרסל, ועד נדל"ן עם AI
 • הטעויות הכי כואבות והשגיאות שלמדנו מהן
 
-על האורח: https://next-level.co.il]]></itunes:summary>
+על האורח: https://next-level.co.il
+
+צפו ביוטיוב: https://youtu.be/b2G6O2pE4_c]]></itunes:summary>
       <itunes:author>דניאל רכטמן</itunes:author>
       <enclosure url="https://pub-5dd16e3eb0704b99bc1fe4ce304e9555.r2.dev/episode-003.mp4" length="21908998720" type="video/mp4"/>
       <guid isPermaLink="false">episode-003-1780232136</guid>
@@ -69,6 +73,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://pub-5dd16e3eb0704b99bc1fe4ce304e9555.r2.dev/episode-003-cover.png"/>
+      <link>https://youtu.be/b2G6O2pE4_c</link>
     </item>
 
     <item>
