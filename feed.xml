@@ -12,7 +12,7 @@
     <description><![CDATA[הפודקאסט לבעלי עסקים שרוצים להבין AI בלי בולשיט. כל פרק נארח בעל עסק שניסה להטמיע בינה מלאכותית בעסק שלו. נשמע מה עבד, מה התפוצץ, ומתי הגיע הרגע שבו הוא הפסיק לנסות לבד וקרא למקצוען. אוטומציות, סוכני AI, מערכות CRM חכמות, צ'אטבוטים - הכל על השולחן. מגיש: דניאל רכטמן | יזם ומפתח מערכות AI לעסקים.]]></description>
     <language>he</language>
     <copyright>© 2026 דניאל רכטמן</copyright>
-    <lastBuildDate>Mon, 15 Jun 2026 21:06:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 05:46:09 +0000</lastBuildDate>
     <itunes:author>דניאל רכטמן</itunes:author>
     <itunes:summary><![CDATA[הפודקאסט לבעלי עסקים שרוצים להבין AI בלי בולשיט. כל פרק נארח בעל עסק שניסה להטמיע בינה מלאכותית בעסק שלו. נשמע מה עבד, מה התפוצץ, ומתי הגיע הרגע שבו הוא הפסיק לנסות לבד וקרא למקצוען. אוטומציות, סוכני AI, מערכות CRM חכמות, צ'אטבוטים - הכל על השולחן. מגיש: דניאל רכטמן | יזם ומפתח מערכות AI לעסקים.]]></itunes:summary>
     <itunes:owner>
@@ -49,7 +49,9 @@
 • סליקה דרך HYP + ניהול פיננסי מלא
 • דשבורד ניהולי מקיף
 
-על האורח: רונן אשכנזי — בנאי מערכות מתקדמות על Base44.]]></description>
+על האורח: רונן אשכנזי — בנאי מערכות מתקדמות על Base44.
+
+צפו ביוטיוב: https://youtu.be/M2-tM7b0qNI]]></description>
       <itunes:summary><![CDATA[רונן אשכנזי בנה על Base44 מערכת ניהול מקצה לקצה ל"מרכז דיאלוג" — מרכז לטיפול ויעוץ רגשי עם 2 סניפים ו-12 חדרים. האתגר: לבנות מערכת פשוטה מספיק למטפלים שלא מהעולם הטכני, וחזקה מספיק לנהל את כל העסק.
 
 מה בנינו במערכת:
@@ -63,7 +65,9 @@
 • סליקה דרך HYP + ניהול פיננסי מלא
 • דשבורד ניהולי מקיף
 
-על האורח: רונן אשכנזי — בנאי מערכות מתקדמות על Base44.]]></itunes:summary>
+על האורח: רונן אשכנזי — בנאי מערכות מתקדמות על Base44.
+
+צפו ביוטיוב: https://youtu.be/M2-tM7b0qNI]]></itunes:summary>
       <itunes:author>דניאל רכטמן</itunes:author>
       <enclosure url="https://pub-5dd16e3eb0704b99bc1fe4ce304e9555.r2.dev/episode-004.mp4" length="24839737292" type="video/mp4"/>
       <guid isPermaLink="false">episode-004-1781557619</guid>
@@ -73,6 +77,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://pub-5dd16e3eb0704b99bc1fe4ce304e9555.r2.dev/episode-004-cover.png"/>
+      <link>https://youtu.be/M2-tM7b0qNI</link>
     </item>
 
     <item>
